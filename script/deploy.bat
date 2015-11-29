@@ -1,4 +1,4 @@
 cd C:\00_DEV\JenkinsTest
 git pull
-npm install --production
+cmd /c npm install --production
 forever restartall
